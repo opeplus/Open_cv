@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9749daff-049f-4c5c-94d9-0d707180cfac" name="Changes" comment="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame" />
+    <list default="true" id="9749daff-049f-4c5c-94d9-0d707180cfac" name="Changes" comment="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721248284675</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame">
+      <created>1721248311226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721248311226</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
