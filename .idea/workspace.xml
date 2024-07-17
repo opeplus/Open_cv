@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9749daff-049f-4c5c-94d9-0d707180cfac" name="Changes" comment="">
+    <list default="true" id="9749daff-049f-4c5c-94d9-0d707180cfac" name="Changes" comment="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame">
       <change afterPath="$PROJECT_DIR$/image.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webcam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Open cv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Open cv.iml" afterDir="false" />
@@ -118,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1714884355614</updated>
     </task>
+    <task id="LOCAL-00001" summary="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame">
+      <created>1721247238076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721247238076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +138,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="A program that the detects image i.e face and frames the image in a green rectangular frame, convert the image to gray and detects  motion pictures i.e video without audio and converts to gray and frames the motion picture in a green rectangular frame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
